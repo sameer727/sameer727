@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hey, I'm Sameer Kumar
 
-<!--
-**sameer727/sameer727** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Full-Stack Developer | Passionate about building, breaking, and learning  
+Currently learning: **JavaScript, Node.js, Supabase, React**
 
-Here are some ideas to get you started:
+💻 What I’ve built recently:
+- 🔐 **SimpleAuth**: Firebase email/password login (deployed on Vercel)
+- 📝 **NotesApp**: React frontend + Supabase backend for storing notes  
+- 🧪 Testing APIs using Postman & working on integrating authentication
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 I learn fast, document well, and thrive in fast-paced startup teams.
+
+⚡ Always open to internships, collaborations, or product building adventures!
